@@ -1,4 +1,4 @@
-# CREDIT CARD FRAUD DETECTION PROJECT
+#CREDIT CARD FRAUD DETECTION PROJECT
 
 The project involves machine learning to frame a number of algorithms to detect credit card frauds. Machine learning is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. 
 
